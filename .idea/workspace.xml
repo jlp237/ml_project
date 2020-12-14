@@ -1,0 +1,272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="fe88b190-7a91-4e6a-beac-acaa725d8d42" name="Default Changelist" comment="added multiclass tree">
+      <change beforePath="$PROJECT_DIR$/AA_202021_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AA_202021_Project.ipynb" afterDir="false" />
+    </list>
+    <list id="06fa140c-2127-4ca0-8ea5-4596d2086aa9" name="added multiclass tree" comment="" />
+    <list id="6f1eeeec-aa58-4e54-8de6-2c69cf946fd9" name="Revert &quot;restructured file&quot;" comment="Revert &quot;restructured file&quot;&#10;&#10;This reverts commit 997b57d4" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="HARD" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/jlu237/ml_project" />
+      </set>
+    </option>
+  </component>
+  <component name="JupyterTrust" id="d165355b-11af-473e-8494-6fc58ee7a857" />
+  <component name="ProjectId" id="1khM1AT0AgM4zbk9RBWVHsKNROl" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fe88b190-7a91-4e6a-beac-acaa725d8d42" name="Default Changelist" comment="" />
+      <changelist id="06fa140c-2127-4ca0-8ea5-4596d2086aa9" name="added multiclass tree" comment="" />
+      <created>1606148151666</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606148151666</updated>
+      <workItem from="1606148152850" duration="2433000" />
+      <workItem from="1606317708771" duration="4916000" />
+      <workItem from="1606984863082" duration="7929000" />
+      <workItem from="1607785800640" duration="1899000" />
+      <workItem from="1607885859386" duration="599000" />
+    </task>
+    <task id="LOCAL-00001" summary="started work: data cleansing, data transformation , first decision tree">
+      <created>1606157625060</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1606157625060</updated>
+    </task>
+    <task id="LOCAL-00002" summary="started work: data cleansing, data transformation , first decision tree">
+      <created>1606238469763</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1606238469763</updated>
+    </task>
+    <task id="LOCAL-00003" summary="further data transformation , and first decision tree with 63 % accuracy">
+      <created>1606238652523</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1606238652523</updated>
+    </task>
+    <task id="LOCAL-00004" summary="further data transformation , and first decision tree with 63 % accuracy">
+      <created>1606238824960</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1606238824960</updated>
+    </task>
+    <task id="LOCAL-00005" summary="aded more data transformation steps.">
+      <created>1606388154858</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1606388154858</updated>
+    </task>
+    <task id="LOCAL-00006" summary="cleared all outputs for better VC">
+      <created>1606828134809</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1606828134809</updated>
+    </task>
+    <task id="LOCAL-00007" summary="added more todos">
+      <created>1606829006290</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1606829006290</updated>
+    </task>
+    <task id="LOCAL-00008" summary="added grid search">
+      <created>1606853170927</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1606853170927</updated>
+    </task>
+    <task id="LOCAL-00009" summary="updated bins, grid_search and accuracy">
+      <created>1606856578420</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1606856578420</updated>
+    </task>
+    <task id="LOCAL-00010" summary="added multiclass tree">
+      <created>1607524332149</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1607524332149</updated>
+    </task>
+    <task id="LOCAL-00011" summary="added multiclass tree">
+      <created>1607524745906</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1607524745906</updated>
+    </task>
+    <task id="LOCAL-00012" summary="restructured data wrangling and model training">
+      <created>1607785832509</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1607785832509</updated>
+    </task>
+    <task id="LOCAL-00013" summary="restructured file">
+      <created>1607788953354</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1607788953354</updated>
+    </task>
+    <task id="LOCAL-00014" summary="added multiclass tree">
+      <created>1607789251519</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1607789251519</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="started work: data cleansing, data transformation , first decision tree" />
+    <MESSAGE value="further data transformation , and first decision tree with 63 % accuracy" />
+    <MESSAGE value="aded more data transformation steps." />
+    <MESSAGE value="cleared all outputs for better VC" />
+    <MESSAGE value="added more todos" />
+    <MESSAGE value="added grid search" />
+    <MESSAGE value="updated bins, grid_search and accuracy" />
+    <MESSAGE value="restructured data wrangling and model training" />
+    <MESSAGE value="restructured file" />
+    <MESSAGE value="added multiclass tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="added multiclass tree" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="402" y="76" key="CommitChangelistDialog2" timestamp="1607789117947">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="402" y="76" key="CommitChangelistDialog2/0.23.1680.961@0.23.1680.961" timestamp="1607789117947" />
+    <state x="168" y="108" key="MergeDialog" timestamp="1607529086063">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="168" y="108" key="MergeDialog/0.23.1680.962@0.23.1680.962" timestamp="1607524714181" />
+    <state x="168" y="108" key="MergeDialog/0.23.1680.965@0.23.1680.965" timestamp="1607529086063" />
+    <state x="478" y="273" key="MultipleFileMergeDialog" timestamp="1607529086097">
+      <screen x="0" y="23" width="1680" height="965" />
+    </state>
+    <state x="478" y="272" key="MultipleFileMergeDialog/0.23.1680.962@0.23.1680.962" timestamp="1607524714210" />
+    <state x="478" y="273" key="MultipleFileMergeDialog/0.23.1680.965@0.23.1680.965" timestamp="1607529086097" />
+    <state x="691" y="424" key="VCS.ChangelistChooser" timestamp="1607789295381">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="691" y="424" key="VCS.ChangelistChooser/0.23.1680.961@0.23.1680.961" timestamp="1607789295381" />
+    <state x="440" y="232" key="Vcs.Push.Dialog.v2" timestamp="1607789831141">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="440" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.961@0.23.1680.961" timestamp="1607789831141" />
+    <state x="440" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.962@0.23.1680.962" timestamp="1607524779508" />
+    <state x="440" y="232" key="Vcs.Push.Dialog.v2/0.23.1680.964@0.23.1680.964" timestamp="1607526915870" />
+    <state x="440" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.965@0.23.1680.965" timestamp="1607527943176" />
+    <state x="440" y="233" key="Vcs.Push.Dialog.v2/0.23.1680.967@0.23.1680.967" timestamp="1606157626619" />
+    <state x="440" y="234" key="Vcs.Push.Dialog.v2/0.23.1680.971@0.23.1680.971" timestamp="1606856582245" />
+    <state x="440" y="235" key="Vcs.Push.Dialog.v2/0.23.1680.976@0.23.1680.976" timestamp="1606238830059" />
+    <state x="638" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607789812999">
+      <screen x="0" y="23" width="1680" height="961" />
+    </state>
+    <state x="638" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.961@0.23.1680.961" timestamp="1607789812999" />
+    <state x="638" y="421" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.962@0.23.1680.962" timestamp="1607526430614" />
+    <state x="638" y="425" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.971@0.23.1680.971" timestamp="1606853707439" />
+    <state x="638" y="427" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.23.1680.976@0.23.1680.976" timestamp="1606238603094" />
+    <state x="588" y="223" key="git4idea.branch.GitSmartOperationDialog" timestamp="1607515517984">
+      <screen x="0" y="23" width="1680" height="962" />
+    </state>
+    <state x="588" y="223" key="git4idea.branch.GitSmartOperationDialog/0.23.1680.962@0.23.1680.962" timestamp="1607515517984" />
+  </component>
+</project>
