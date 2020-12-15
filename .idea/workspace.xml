@@ -25,9 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fe88b190-7a91-4e6a-beac-acaa725d8d42" name="Default Changelist" comment="added multiclass tree">
-      <change beforePath="$PROJECT_DIR$/AA_202021_Project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/AA_202021_Project.ipynb" afterDir="false" />
-    </list>
+    <list default="true" id="fe88b190-7a91-4e6a-beac-acaa725d8d42" name="Default Changelist" comment="added multiclass tree" />
     <list id="06fa140c-2127-4ca0-8ea5-4596d2086aa9" name="added multiclass tree" comment="" />
     <list id="6f1eeeec-aa58-4e54-8de6-2c69cf946fd9" name="Revert &quot;restructured file&quot;" comment="Revert &quot;restructured file&quot;&#10;&#10;This reverts commit 997b57d4" />
     <option name="SHOW_DIALOG" value="false" />
